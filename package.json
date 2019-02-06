@@ -63,8 +63,8 @@
     "webpack-config": "7.5.0"
   },
   "peerDependencies": {
-    "webpack": "^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0",
-    "html-webpack-plugin": "4.x"
+    "webpack": "^4.0.0",
+    "html-webpack-plugin": "4.0.0-alpha"
   },
   "engines": {
     "node": ">=6.11.5"
